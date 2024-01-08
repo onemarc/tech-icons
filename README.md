@@ -12,13 +12,13 @@ This project is created at your own discretion. It contains quite a large number
 # Documentation
 
 <ul>
-  <li href="">Example 📄</li>
-  <li href="">Definition of icons ⚒️</li>
-  <li href="">Resizing icons 📐</li>
-  <li href="">Icons themes ⚙️</li>
-  <li href="">Icons centering 🖇️</li>
-  <li href="">Ideas for improvement 💡</li>
-  <li href="">Support ✨</li>
+  <li><a href="https://github.com/onemarc/tech-icons?tab=readme-ov-file#example-">Example 📄</a></li>
+  <li><a href="https://github.com/onemarc/tech-icons?tab=readme-ov-file#definition-of-icons%EF%B8%8F">Definition of icons ⚒️</a></li>
+  <li><a href="https://github.com/onemarc/tech-icons?tab=readme-ov-file#resizing-icons-">Resizing icons 📐</a></li>
+  <li><a href="https://github.com/onemarc/tech-icons?tab=readme-ov-file#icons-themes-%EF%B8%8F">Icons themes ⚙️</a></li>
+  <li><a href="https://github.com/onemarc/tech-icons?tab=readme-ov-file#icons-centering-%EF%B8%8F">Icons centering 🖇️</a></li>
+  <li><a href="https://github.com/onemarc/tech-icons?tab=readme-ov-file#ideas-for-improvement-">Ideas for improvement 💡</a></li>
+  <li><a href="https://github.com/onemarc/tech-icons?tab=readme-ov-file#support-">Support ✨</a></li>
 </ul>
 
 # Example 📄
