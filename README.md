@@ -5,6 +5,12 @@
 </a>
 <h2 align="center">Showcase your skills right on your GitHub page!</h2>
 
+<p align="center">
+  <a href="#">
+    <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fonemarc%2Ftech-icons&label=VISITORS&countColor=%23bababa" />
+  </a>
+</p>
+
 # Preamble
 
 This project is created at your own discretion. It contains quite a large number of icons representing different programming languages, frameworks, technologies, social networks, databases and various tools. The icons are presented in standard image size so you can set their size to your liking. You can use them in your resumes or GitHub repositories to stand out from the crowd.
