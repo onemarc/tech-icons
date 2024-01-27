@@ -23,7 +23,7 @@ This project is created at your own discretion. It contains quite a large number
   <li><a href="https://github.com/onemarc/tech-icons?tab=readme-ov-file#resizing-icons-">Resizing icons 📐</a></li>
   <li><a href="https://github.com/onemarc/tech-icons?tab=readme-ov-file#icons-themes-%EF%B8%8F">Icons themes ⚙️</a></li>
   <li><a href="https://github.com/onemarc/tech-icons?tab=readme-ov-file#icons-centering-%EF%B8%8F">Icons centering 🖇️</a></li>
-  <li><a href="https://github.com/onemarc/tech-icons?tab=readme-ov-file#how-to-find-icon?-">  How to find icon? 🔎</a></li>
+  <li><a href="https://github.com/onemarc/tech-icons?tab=readme-ov-file#how-to-find-icon?-">How to find icon? 🔎</a></li>
   <li><a href="https://github.com/onemarc/tech-icons?tab=readme-ov-file#ideas-for-improvement-">Ideas for improvement 💡</a></li>
   <li><a href="https://github.com/onemarc/tech-icons?tab=readme-ov-file#most-popular-icons-">Most popular icons 📂</a></li>
   <li><a href="https://github.com/onemarc/tech-icons?tab=readme-ov-file#support-">Support ✨</a></li>
