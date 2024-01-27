@@ -23,7 +23,9 @@ This project is created at your own discretion. It contains quite a large number
   <li><a href="https://github.com/onemarc/tech-icons?tab=readme-ov-file#resizing-icons-">Resizing icons 📐</a></li>
   <li><a href="https://github.com/onemarc/tech-icons?tab=readme-ov-file#icons-themes-%EF%B8%8F">Icons themes ⚙️</a></li>
   <li><a href="https://github.com/onemarc/tech-icons?tab=readme-ov-file#icons-centering-%EF%B8%8F">Icons centering 🖇️</a></li>
+  <li><a href="https://github.com/onemarc/tech-icons?tab=readme-ov-file#how-to-find-icon?-">  How to find icon? 🔎</a></li>
   <li><a href="https://github.com/onemarc/tech-icons?tab=readme-ov-file#ideas-for-improvement-">Ideas for improvement 💡</a></li>
+  <li><a href="https://github.com/onemarc/tech-icons?tab=readme-ov-file#most-popular-icons-">Most popular icons 📂</a></li>
   <li><a href="https://github.com/onemarc/tech-icons?tab=readme-ov-file#support-">Support ✨</a></li>
 </ul>
 
@@ -75,6 +77,12 @@ If you want to align the icons relative to the edge or center, add the following
 ```
 <a href="#"><p align="center"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/NAME_OF_ICON.svg"></p></a>
 ```
+
+# How to find icon? 🔎
+
+<h4>How to find the icon you need?</h4>
+- To find an icon, you need to go to the icons folder and write the name of the technology/programming language/framework/social network or whatever you are looking for in the search box. In most cases, all icons are named according to their general name.
+
 # Ideas for improvement 💡
 
 If anyone has ideas for improving this project, please submit your ideas to issues or make pull requests.<br>
@@ -86,6 +94,45 @@ If anyone has ideas for improving this project, please submit your ideas to issu
 </ol>
 
 In this way, the problems you find or the proposed innovations will be formed in a structured way and will be considered faster.
+
+# Most popular icons 📂
+
+Below is a small part of the commonly used icons.
+
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="https://github.com/onemarc/tech-icons/blob/main/icons/python-dark.svg" width="50"></td>
+      <td><img src="https://github.com/onemarc/tech-icons/blob/main/icons/fastapi.svg" width="50"></td>
+      <td><img src="https://github.com/onemarc/tech-icons/blob/main/icons/django.svg" width="50"></td>
+      <td><img src="https://github.com/onemarc/tech-icons/blob/main/icons/qt-dark.svg" width="50"></td>
+      <td><img src="https://github.com/onemarc/tech-icons/blob/main/icons/xcode-dark.svg" width="50"></td>
+      <td><img src="https://github.com/onemarc/tech-icons/blob/main/icons/vscode-dark.svg" width="50"></td>
+      <td><img src="https://github.com/onemarc/tech-icons/blob/main/icons/vscodium.svg" width="50"></td>
+      <td><img src="https://github.com/onemarc/tech-icons/blob/main/icons/php.svg" width="50"></td>
+    </tr>
+    <tr>
+      <td><img src="https://github.com/onemarc/tech-icons/blob/main/icons/github-dark.svg" width="50"></td>
+      <td><img src="https://github.com/onemarc/tech-icons/blob/main/icons/html.svg" width="50"></td>
+      <td><img src="https://github.com/onemarc/tech-icons/blob/main/icons/css.svg" width="50"></td>
+      <td><img src="https://github.com/onemarc/tech-icons/blob/main/icons/javascript.svg" width="50"></td>
+      <td><img src="https://github.com/onemarc/tech-icons/blob/main/icons/typescript.svg" width="50"></td>
+      <td><img src="https://github.com/onemarc/tech-icons/blob/main/icons/react-dark.svg" width="50"></td>
+      <td><img src="https://github.com/onemarc/tech-icons/blob/main/icons/tailwindcss-dark.svg" width="50"></td>
+      <td><img src="https://github.com/onemarc/tech-icons/blob/main/icons/go-dark.svg" width="50"></td>
+    </tr>
+    <tr>
+      <td><img src="https://github.com/onemarc/tech-icons/blob/main/icons/wordpress.svg" width="50"></td>
+      <td><img src="https://github.com/onemarc/tech-icons/blob/main/icons/flutter-dark.svg" width="50"></td>
+      <td><img src="https://github.com/onemarc/tech-icons/blob/main/icons/kotlin-dark.svg" width="50"></td>
+      <td><img src="https://github.com/onemarc/tech-icons/blob/main/icons/kubernetes-dark.svg" width="50"></td>
+      <td><img src="https://github.com/onemarc/tech-icons/blob/main/icons/docker.svg" width="50"></td>
+      <td><img src="https://github.com/onemarc/tech-icons/blob/main/icons/perl.svg" width="50"></td>
+      <td><img src="https://github.com/onemarc/tech-icons/blob/main/icons/reactivex.svg" width="50"></td>
+      <td><img src="https://github.com/onemarc/tech-icons/blob/main/icons/swift.svg" width="50"></td>
+    </tr>
+  </table>
+</div>
 
 # Support ✨
 
