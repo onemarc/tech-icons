@@ -46,6 +46,7 @@ In order to add an icon to your repository or something else, copy the code belo
 ```
 <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/NAME_OF_ICON.svg" width="50"></a>
 ```
+If you can't insert the icon you want, try replacing "/blob" with "/raw" in the link.
 
 # Resizing icons 📐
 
